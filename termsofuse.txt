@@ -1,0 +1,4 @@
+1. Allowing us to download files onto your computer
+2. Allowing us to log internet protocols in the future for key-system
+3. Allowing us to access and change your device serials
+4. ...
