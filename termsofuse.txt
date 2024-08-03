@@ -1,3 +1,1 @@
-1. Allowing us to download files onto your computer ( only monaco code editor nothing bad )
-2. Allowing us to log internet protocols in the future for key-system
-3. Allowing us to access and change your device serials for spoofing
+old tos gone because we dont do any of those things anymore
